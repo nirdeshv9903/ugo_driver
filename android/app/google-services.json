@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "278233606273",
+    "firebase_url": "https://appzetotaxi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appzetotaxi",
+    "storage_bucket": "appzetotaxi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278233606273:android:53fa8f19c2871e2f150580",
+        "android_client_info": {
+          "package_name": "com.taxidriver.appzeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIM6YgS0E-kICtG3DWAXa5dqstoelUD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278233606273:android:8c38ed5f6fbd96b3150580",
+        "android_client_info": {
+          "package_name": "com.taxiuser.appzeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIM6YgS0E-kICtG3DWAXa5dqstoelUD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
